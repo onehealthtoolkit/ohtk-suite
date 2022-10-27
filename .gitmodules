@@ -1,0 +1,6 @@
+[submodule "projects/ohtk-ms"]
+	path = projects/ohtk-ms
+	url = https://github.com/onehealthtoolkit/ohtk-ms
+[submodule "projects/ohtk-api"]
+	path = projects/ohtk-api
+	url = https://github.com/onehealthtoolkit/ohtk-api
